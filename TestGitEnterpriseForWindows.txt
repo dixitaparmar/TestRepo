@@ -1,1 +1,2 @@
 Installed gitenterprise for windows.Now checking in the file
+Test
